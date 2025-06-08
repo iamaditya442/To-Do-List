@@ -12,7 +12,7 @@
 
 ## 🚀 Live Link
 
-🔗 **Try it Now**: [Click here to open the app](https://yourusername.github.io/your-repo-name)
+🔗 **Try it Now**: [Click here to open the app](https://iamaditya442.github.io/To-Do-List/)
 
 > Replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name.
 
