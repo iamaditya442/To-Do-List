@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: sans-serif;
+}
+
+.container{
+    text-align: center;
+    background-color: aqua;
+    height:100vh;
+}
+.container h1{
+    padding-top: 20px;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.input-section input{
+    width: 20%;
+    height: 20px;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+.input-section button{
+    height: 40px;
+    padding: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
